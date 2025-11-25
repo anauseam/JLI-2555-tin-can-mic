@@ -5,7 +5,7 @@
 	(uuid "ca63f3fa-00f9-4b7d-b6c3-95b979ea7664")
 	(paper "A5")
 	(title_block
-		(title "JLI 2555 tin can mic ")
+		(title "JLI 2555 tin can microphone")
 		(date "2025-05-25")
 		(rev "2.0")
 		(company "Anauseam")
@@ -1955,98 +1955,110 @@
 		)
 	)
 	(junction
-		(at 63.5 38.1)
+		(at 63.5 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "019643c6-a62a-471a-9951-d585f7afcaea")
 	)
 	(junction
-		(at 127 35.56)
+		(at 176.53 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08850f85-f30c-4be2-a9bc-1a39e6be883c")
+	)
+	(junction
+		(at 165.1 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b2670a1-587f-41d4-b6ab-aefa2e146fe6")
+	)
+	(junction
+		(at 132.08 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30135833-8e20-4d2d-90a8-0ecd2ab8b4e9")
+	)
+	(junction
+		(at 127 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "33546de8-578a-48c5-b230-c2771c696481")
 	)
 	(junction
-		(at 80.01 27.94)
+		(at 80.01 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35b72e3c-d6ea-480e-ba4a-48e3cac21aa1")
 	)
 	(junction
-		(at 63.5 88.9)
+		(at 50.8 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c996d13-ea27-432e-9d57-7700c05e431e")
 	)
 	(junction
-		(at 76.2 88.9)
+		(at 63.5 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d9b8e1c-175a-412e-8a29-0a5d2c9a5cee")
 	)
 	(junction
-		(at 135.89 63.5)
+		(at 38.1 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4b9f2a10-0dc9-4bf3-973e-109fbfa983e1")
+		(uuid "51117782-f7bc-455e-8e11-57e719de4040")
 	)
 	(junction
-		(at 80.01 38.1)
+		(at 80.01 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5656a9cc-2204-48b3-8504-01248789c097")
 	)
 	(junction
-		(at 107.95 91.44)
+		(at 95.25 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "580c14a6-832d-4a1c-a653-52b0cc685cd3")
 	)
 	(junction
-		(at 50.8 88.9)
+		(at 38.1 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "99bf6efd-4b52-4a88-abf1-057c9794c29d")
 	)
 	(junction
-		(at 63.5 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bb836d81-fea9-42a9-8cbc-0a91bc729ffe")
-	)
-	(junction
-		(at 50.8 101.6)
+		(at 38.1 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc1c4d82-3e48-46ff-8d4c-1378ec2a749a")
 	)
 	(junction
-		(at 63.5 101.6)
+		(at 50.8 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf0d6b65-e3d9-4038-96b4-821f476668ac")
 	)
 	(junction
-		(at 50.8 25.4)
+		(at 63.5 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "eeac25cc-cb82-44eb-ace9-6e7473478835")
+		(uuid "ecc63bd2-4d23-4ba5-bb09-5cda15e507b0")
 	)
 	(junction
-		(at 173.99 63.5)
+		(at 120.65 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f11f8b41-304f-4c4a-87c8-3972b8cae35b")
+		(uuid "f6d69592-f33b-416f-8892-62f16143e504")
 	)
 	(junction
-		(at 50.8 76.2)
+		(at 38.1 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fbd07e48-797c-4f5c-911b-66469aa0198d")
 	)
 	(wire
 		(pts
-			(xy 139.7 35.56) (xy 144.78 35.56)
+			(xy 139.7 31.75) (xy 144.78 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2056,7 +2068,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 44.45) (xy 127 44.45)
+			(xy 107.95 40.64) (xy 127 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2066,7 +2078,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 25.4) (xy 50.8 25.4)
+			(xy 25.4 21.59) (xy 38.1 21.59)
 		)
 		(stroke
 			(width 0)
@@ -2076,17 +2088,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 48.26) (xy 63.5 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c52617d-17d6-4365-960b-c9d9187cdeda")
-	)
-	(wire
-		(pts
-			(xy 50.8 101.6) (xy 50.8 97.79)
+			(xy 38.1 101.6) (xy 38.1 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2096,7 +2098,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 30.48) (xy 63.5 38.1)
+			(xy 63.5 26.67) (xy 63.5 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2106,7 +2108,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 63.5) (xy 187.96 63.5)
+			(xy 189.23 58.42) (xy 190.5 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2116,7 +2118,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 35.56) (xy 167.64 35.56)
+			(xy 152.4 31.75) (xy 167.64 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2126,7 +2128,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 27.94) (xy 80.01 38.1)
+			(xy 80.01 24.13) (xy 80.01 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2136,7 +2138,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 99.06) (xy 76.2 101.6)
+			(xy 63.5 99.06) (xy 63.5 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2146,7 +2148,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 83.82) (xy 127 88.9)
+			(xy 114.3 78.74) (xy 114.3 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2156,7 +2158,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 40.64) (xy 158.75 44.45)
+			(xy 158.75 36.83) (xy 158.75 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2166,7 +2168,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 86.36) (xy 50.8 88.9)
+			(xy 38.1 86.36) (xy 38.1 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2176,17 +2178,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 25.4) (xy 63.5 25.4)
+			(xy 63.5 63.5) (xy 63.5 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2c9246d6-84b0-4616-93e2-4fd9768fc11a")
+		(uuid "2a6f0b90-34de-4732-a732-d0f27bcea127")
 	)
 	(wire
 		(pts
-			(xy 50.8 101.6) (xy 63.5 101.6)
+			(xy 38.1 101.6) (xy 50.8 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2196,7 +2198,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 48.26) (xy 80.01 48.26)
+			(xy 76.2 44.45) (xy 80.01 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2206,7 +2208,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 88.9) (xy 88.9 88.9)
+			(xy 63.5 88.9) (xy 76.2 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2216,7 +2218,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 76.2) (xy 58.42 76.2)
+			(xy 38.1 76.2) (xy 39.37 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2226,7 +2228,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 76.2) (xy 38.1 82.55)
+			(xy 25.4 76.2) (xy 25.4 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2236,7 +2238,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 38.1) (xy 80.01 48.26)
+			(xy 80.01 34.29) (xy 80.01 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2246,7 +2248,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 63.5) (xy 165.1 68.58)
+			(xy 158.75 58.42) (xy 158.75 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2256,7 +2258,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 99.06) (xy 107.95 99.06)
+			(xy 76.2 99.06) (xy 95.25 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2266,7 +2268,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 35.56) (xy 50.8 34.29)
+			(xy 38.1 31.75) (xy 38.1 30.48)
 		)
 		(stroke
 			(width 0)
@@ -2276,7 +2278,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 27.94) (xy 95.25 27.94)
+			(xy 80.01 24.13) (xy 95.25 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2286,17 +2288,17 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 63.5) (xy 165.1 63.5)
+			(xy 120.65 58.42) (xy 132.08 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5b208aa0-7055-4a76-a7b4-97f6dd27e08a")
+		(uuid "5e719168-55df-4078-891f-644b17073a29")
 	)
 	(wire
 		(pts
-			(xy 63.5 101.6) (xy 63.5 99.06)
+			(xy 50.8 101.6) (xy 50.8 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2306,17 +2308,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 63.5) (xy 140.97 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61dc4f94-7be5-4af2-b4ef-cc90713ef3ec")
-	)
-	(wire
-		(pts
-			(xy 38.1 90.17) (xy 38.1 92.71)
+			(xy 25.4 90.17) (xy 25.4 92.71)
 		)
 		(stroke
 			(width 0)
@@ -2326,7 +2318,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 27.94) (xy 80.01 27.94)
+			(xy 78.74 24.13) (xy 80.01 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2336,7 +2328,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 27.94) (xy 95.25 29.21)
+			(xy 95.25 24.13) (xy 95.25 25.4)
 		)
 		(stroke
 			(width 0)
@@ -2346,7 +2338,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 88.9) (xy 50.8 90.17)
+			(xy 38.1 88.9) (xy 38.1 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2356,7 +2348,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 38.1) (xy 38.1 36.83)
+			(xy 25.4 34.29) (xy 25.4 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2366,7 +2358,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 48.26) (xy 68.58 48.26)
+			(xy 63.5 44.45) (xy 68.58 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2376,7 +2368,17 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 38.1) (xy 63.5 48.26)
+			(xy 132.08 58.42) (xy 138.43 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f8f1f4b-022f-4f83-88ff-3232cc96862b")
+	)
+	(wire
+		(pts
+			(xy 63.5 34.29) (xy 63.5 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2386,7 +2388,17 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 88.9) (xy 127 88.9)
+			(xy 165.1 58.42) (xy 158.75 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85350fe8-7bb4-420b-af56-11d33fe145f6")
+	)
+	(wire
+		(pts
+			(xy 123.19 83.82) (xy 114.3 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2396,7 +2408,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 91.44) (xy 107.95 99.06)
+			(xy 95.25 91.44) (xy 95.25 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2406,7 +2418,17 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 91.44) (xy 107.95 91.44)
+			(xy 38.1 21.59) (xy 46.99 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f15ddc5-3012-45e1-91e9-c22586d54818")
+	)
+	(wire
+		(pts
+			(xy 91.44 91.44) (xy 95.25 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2416,7 +2438,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 38.1) (xy 68.58 38.1)
+			(xy 63.5 34.29) (xy 68.58 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2426,7 +2448,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 88.9) (xy 63.5 91.44)
+			(xy 50.8 88.9) (xy 50.8 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2436,7 +2458,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 35.56) (xy 132.08 35.56)
+			(xy 127 31.75) (xy 132.08 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2446,7 +2468,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 33.02) (xy 107.95 33.02)
+			(xy 99.06 29.21) (xy 107.95 29.21)
 		)
 		(stroke
 			(width 0)
@@ -2456,7 +2478,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 63.5) (xy 127 68.58)
+			(xy 114.3 58.42) (xy 114.3 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2466,7 +2488,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 38.1) (xy 80.01 38.1)
+			(xy 76.2 34.29) (xy 80.01 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2476,7 +2498,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 26.67) (xy 50.8 25.4)
+			(xy 176.53 58.42) (xy 181.61 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a57da3d5-38fb-4493-9385-3941c6d91045")
+	)
+	(wire
+		(pts
+			(xy 38.1 22.86) (xy 38.1 21.59)
 		)
 		(stroke
 			(width 0)
@@ -2486,17 +2518,17 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 63.5) (xy 179.07 63.5)
+			(xy 165.1 58.42) (xy 176.53 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a7548455-b932-4f81-8c16-3e041cad584a")
+		(uuid "a80bee45-3c14-4f14-996c-34c01b0b51f7")
 	)
 	(wire
 		(pts
-			(xy 38.1 26.67) (xy 38.1 25.4)
+			(xy 25.4 22.86) (xy 25.4 21.59)
 		)
 		(stroke
 			(width 0)
@@ -2506,7 +2538,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 35.56) (xy 127 35.56)
+			(xy 123.19 31.75) (xy 127 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2516,7 +2548,17 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 76.2) (xy 50.8 76.2)
+			(xy 120.65 58.42) (xy 114.3 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b14bc2c7-8b08-4f18-9da4-e384a687d3e1")
+	)
+	(wire
+		(pts
+			(xy 25.4 76.2) (xy 38.1 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2526,7 +2568,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 38.1) (xy 167.64 38.1)
+			(xy 163.83 34.29) (xy 167.64 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2536,7 +2578,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 101.6) (xy 63.5 101.6)
+			(xy 63.5 101.6) (xy 50.8 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2546,7 +2588,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 44.45) (xy 127 35.56)
+			(xy 127 40.64) (xy 127 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2556,7 +2598,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 88.9) (xy 165.1 88.9)
+			(xy 167.64 83.82) (xy 158.75 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2566,7 +2608,17 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 91.44) (xy 76.2 88.9)
+			(xy 63.5 54.61) (xy 63.5 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c002099c-ab80-43a4-b004-bae9f2ba643f")
+	)
+	(wire
+		(pts
+			(xy 63.5 91.44) (xy 63.5 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2576,7 +2628,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 83.82) (xy 165.1 88.9)
+			(xy 158.75 78.74) (xy 158.75 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2586,7 +2638,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 91.44) (xy 114.3 91.44)
+			(xy 95.25 91.44) (xy 101.6 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2596,7 +2648,17 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 63.5) (xy 149.86 63.5)
+			(xy 54.61 21.59) (xy 63.5 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caa81358-fa4d-48fc-b47a-40c39591418d")
+	)
+	(wire
+		(pts
+			(xy 146.05 58.42) (xy 147.32 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2606,7 +2668,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 88.9) (xy 76.2 88.9)
+			(xy 50.8 88.9) (xy 63.5 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2616,7 +2678,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 110.49) (xy 38.1 114.3)
+			(xy 25.4 110.49) (xy 25.4 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2626,7 +2688,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 40.64) (xy 167.64 40.64)
+			(xy 158.75 36.83) (xy 167.64 36.83)
 		)
 		(stroke
 			(width 0)
@@ -2636,7 +2698,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 78.74) (xy 50.8 76.2)
+			(xy 38.1 78.74) (xy 38.1 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2646,7 +2708,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 88.9) (xy 63.5 88.9)
+			(xy 38.1 88.9) (xy 50.8 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2656,7 +2718,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 38.1) (xy 107.95 44.45)
+			(xy 107.95 34.29) (xy 107.95 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2666,7 +2728,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 38.1) (xy 95.25 36.83)
+			(xy 95.25 35.56) (xy 95.25 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2676,17 +2738,17 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 63.5) (xy 127 63.5)
+			(xy 63.5 44.45) (xy 63.5 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f362c175-e12c-4ea1-a086-20b447dff268")
+		(uuid "f39f687d-5377-4e23-bf51-0edb76b3341b")
 	)
 	(wire
 		(pts
-			(xy 88.9 93.98) (xy 88.9 99.06)
+			(xy 76.2 93.98) (xy 76.2 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2696,7 +2758,7 @@
 	)
 	(global_label "+9v"
 		(shape input)
-		(at 58.42 76.2 0)
+		(at 39.37 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2706,7 +2768,7 @@
 		)
 		(uuid "0b4f7df4-d679-426f-a06e-181ade8fcbd9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 65.1547 76.2 0)
+			(at 46.1047 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2718,7 +2780,7 @@
 	)
 	(global_label "Vref"
 		(shape input)
-		(at 50.8 35.56 270)
+		(at 38.1 31.75 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2728,7 +2790,29 @@
 		)
 		(uuid "16c91e20-26f0-4811-9244-24b9229196f3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.8 42.2343 90)
+			(at 38.1 38.4243 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Vref"
+		(shape input)
+		(at 95.25 35.56 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6e2993cf-062b-41c9-ac34-d9cf211455fe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.25 42.2343 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2740,7 +2824,7 @@
 	)
 	(global_label "BAT -"
 		(shape input)
-		(at 163.83 38.1 180)
+		(at 163.83 34.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2750,7 +2834,7 @@
 		)
 		(uuid "7213d90d-ef00-468d-b8b7-732d351a1194")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 154.9786 38.1 0)
+			(at 154.9786 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2762,7 +2846,7 @@
 	)
 	(global_label "BAT -"
 		(shape input)
-		(at 38.1 92.71 270)
+		(at 25.4 92.71 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2772,7 +2856,7 @@
 		)
 		(uuid "87b48827-1b8e-4b91-a1b7-dc1fc4e8c4b8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.1 101.5614 90)
+			(at 25.4 101.5614 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2784,7 +2868,7 @@
 	)
 	(global_label "+9v"
 		(shape input)
-		(at 149.86 63.5 0)
+		(at 147.32 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2794,7 +2878,7 @@
 		)
 		(uuid "b9911e4f-19d7-44b3-82fb-0d69f4372ca7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.5947 63.5 0)
+			(at 154.0547 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2806,7 +2890,7 @@
 	)
 	(global_label "+9v"
 		(shape input)
-		(at 187.96 63.5 0)
+		(at 190.5 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2816,7 +2900,7 @@
 		)
 		(uuid "c973796d-42ed-4808-b27d-2ed8f3c09eae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 194.6947 63.5 0)
+			(at 197.2347 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2828,7 +2912,7 @@
 	)
 	(global_label "Vref"
 		(shape input)
-		(at 114.3 91.44 0)
+		(at 101.6 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2838,7 +2922,7 @@
 		)
 		(uuid "d1e372fd-ea7e-4bbe-8fba-9eb3847f27e8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.9743 91.44 0)
+			(at 108.2743 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2850,7 +2934,7 @@
 	)
 	(global_label "Vref"
 		(shape input)
-		(at 63.5 57.15 270)
+		(at 63.5 63.5 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2860,7 +2944,7 @@
 		)
 		(uuid "d2683116-3af9-40ee-9875-6c71271006af")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.5 63.8243 90)
+			(at 63.5 70.1743 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2872,7 +2956,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.75 44.45 0)
+		(at 158.75 40.64 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2882,7 +2966,7 @@
 		(fields_autoplaced yes)
 		(uuid "17fe94ce-8d9b-4062-aed7-13822a8df08a")
 		(property "Reference" "#PWR013"
-			(at 158.75 50.8 0)
+			(at 158.75 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2891,7 +2975,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 158.75 49.53 0)
+			(at 158.75 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2899,7 +2983,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 44.45 0)
+			(at 158.75 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2908,7 +2992,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 44.45 0)
+			(at 158.75 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2917,7 +3001,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 158.75 44.45 0)
+			(at 158.75 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2929,7 +3013,7 @@
 			(uuid "efccefd0-0544-47d2-b7fc-c0039971de94")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#PWR013")
 					(unit 1)
@@ -2939,7 +3023,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 38.1 0)
+		(at 25.4 34.29 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2949,7 +3033,7 @@
 		(fields_autoplaced yes)
 		(uuid "1de584e8-6923-4bbd-a97e-f2ee73307984")
 		(property "Reference" "#PWR02"
-			(at 38.1 44.45 0)
+			(at 25.4 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2958,7 +3042,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 43.18 0)
+			(at 25.4 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2966,7 +3050,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 38.1 0)
+			(at 25.4 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2975,7 +3059,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 38.1 0)
+			(at 25.4 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2984,7 +3068,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 38.1 0)
+			(at 25.4 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2996,7 +3080,7 @@
 			(uuid "c43240c9-be8e-4aef-8498-0c63fbe0313d")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#PWR02")
 					(unit 1)
@@ -3006,7 +3090,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 114.3 0)
+		(at 25.4 114.3 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3016,7 +3100,7 @@
 		(fields_autoplaced yes)
 		(uuid "340c1e67-24cb-4cae-a4ca-2d0e31c178ee")
 		(property "Reference" "#PWR05"
-			(at 38.1 120.65 0)
+			(at 25.4 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3025,7 +3109,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 119.38 0)
+			(at 25.4 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3033,7 +3117,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 114.3 0)
+			(at 25.4 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3042,7 +3126,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 114.3 0)
+			(at 25.4 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3051,7 +3135,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 114.3 0)
+			(at 25.4 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3063,7 +3147,7 @@
 			(uuid "846e54db-3200-4492-a9eb-616e320d51cd")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#PWR05")
 					(unit 1)
@@ -3073,7 +3157,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 63.5 53.34 0)
+		(at 63.5 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3081,8 +3165,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4235cd86-ce54-4620-85f6-5a0e339d3e56")
-		(property "Reference" "R3"
-			(at 66.04 52.0699 0)
+		(property "Reference" "R4"
+			(at 66.04 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3091,7 +3175,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 66.04 54.6099 0)
+			(at 66.04 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3100,7 +3184,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 64.516 53.594 90)
+			(at 64.516 49.784 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3109,7 +3193,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 53.34 0)
+			(at 63.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3118,7 +3202,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 63.5 53.34 0)
+			(at 63.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3133,9 +3217,9 @@
 			(uuid "fc3f6a88-9f55-411f-a6af-2bc49bd8978a")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -3143,15 +3227,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 182.88 63.5 90)
+		(at 185.42 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "46afe235-1ae1-4835-9350-1e7497e131fa")
-		(property "Reference" "R8"
-			(at 180.975 57.7849 90)
+		(property "Reference" "R9"
+			(at 183.515 52.7049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3160,7 +3244,7 @@
 			)
 		)
 		(property "Value" "47"
-			(at 180.975 60.3249 90)
+			(at 183.515 55.2449 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3169,7 +3253,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 183.134 62.484 90)
+			(at 185.674 57.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3178,7 +3262,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 182.88 63.5 0)
+			(at 185.42 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3187,7 +3271,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 182.88 63.5 0)
+			(at 185.42 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3202,27 +3286,44 @@
 			(uuid "d785e915-76b6-4d89-ba66-47f97a4a951b")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 95.25 38.1 0)
-		(mirror y)
+		(lib_id "Device:C")
+		(at 132.08 62.23 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "47ac9596-1cae-4530-8bc5-19bcb98094ff")
-		(property "Reference" "#PWR09"
-			(at 95.25 44.45 0)
+		(uuid "49b983c6-04fd-48cb-b2d3-b72d33d14a12")
+		(property "Reference" "C7"
+			(at 135.89 60.9599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "47uF"
+			(at 135.89 63.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+			(at 131.1148 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3230,16 +3331,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 95.25 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 95.25 38.1 0)
+		(property "Datasheet" "~"
+			(at 132.08 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3247,8 +3340,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 95.25 38.1 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 132.08 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3256,22 +3349,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "2"
+			(uuid "09a9af6c-b0fd-4a20-a138-80b58bf212fc")
 		)
 		(pin "1"
-			(uuid "f7aeefd5-8548-4333-9405-0bdbc059f2fa")
+			(uuid "14320c27-2e8c-4700-bbb3-2ac4c5a28ce2")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "#PWR09")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -3279,7 +3366,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 135.89 88.9 0)
+		(at 123.19 83.82 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3289,7 +3376,7 @@
 		(fields_autoplaced yes)
 		(uuid "4da38122-7166-4507-989c-b2cd409a0311")
 		(property "Reference" "#PWR015"
-			(at 135.89 95.25 0)
+			(at 123.19 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3298,7 +3385,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 135.89 93.98 0)
+			(at 123.19 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3306,7 +3393,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 88.9 0)
+			(at 123.19 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3315,7 +3402,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 88.9 0)
+			(at 123.19 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3324,7 +3411,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 88.9 0)
+			(at 123.19 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3336,7 +3423,7 @@
 			(uuid "0310da44-ce06-4e9a-9904-83d218fc1e2a")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#PWR015")
 					(unit 1)
@@ -3346,7 +3433,7 @@
 	)
 	(symbol
 		(lib_id "Device:Microphone_Condenser")
-		(at 38.1 31.75 0)
+		(at 25.4 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3354,7 +3441,7 @@
 		(dnp no)
 		(uuid "5264f653-8a38-4611-ba53-e5fdbf38e5b3")
 		(property "Reference" "MK1"
-			(at 28.448 31.496 0)
+			(at 15.748 27.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3363,7 +3450,7 @@
 			)
 		)
 		(property "Value" "JLI2555"
-			(at 26.924 28.448 0)
+			(at 14.224 24.638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3372,7 +3459,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm"
-			(at 38.1 29.21 90)
+			(at 25.4 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3381,7 +3468,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 38.1 29.21 90)
+			(at 25.4 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3390,7 +3477,7 @@
 			)
 		)
 		(property "Description" "Condenser microphone"
-			(at 38.1 31.75 0)
+			(at 25.4 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3405,7 +3492,7 @@
 			(uuid "0d2c117f-3a8f-44fc-8657-d8dab9dcdcb8")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "MK1")
 					(unit 1)
@@ -3415,7 +3502,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 148.59 35.56 90)
+		(at 148.59 31.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3423,8 +3510,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53aa30b8-f31b-492a-b60d-3eb76a8da422")
-		(property "Reference" "R4"
-			(at 148.59 29.21 90)
+		(property "Reference" "R5"
+			(at 148.59 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3432,7 +3519,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 148.59 31.75 90)
+			(at 148.59 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3440,7 +3527,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 148.844 34.544 90)
+			(at 148.844 30.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3449,7 +3536,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 35.56 0)
+			(at 148.59 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3458,7 +3545,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 148.59 35.56 0)
+			(at 148.59 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3473,9 +3560,9 @@
 			(uuid "e1dd713c-5a05-433e-b7cb-c2f175bcb07e")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "R4")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -3483,7 +3570,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 135.89 71.12 0)
+		(at 120.65 66.04 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3493,7 +3580,7 @@
 		(fields_autoplaced yes)
 		(uuid "648cc445-569f-4a83-940e-92e12f8fe781")
 		(property "Reference" "#PWR014"
-			(at 135.89 77.47 0)
+			(at 120.65 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3502,7 +3589,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 135.89 76.2 0)
+			(at 120.65 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3510,7 +3597,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 71.12 0)
+			(at 120.65 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3519,7 +3606,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 71.12 0)
+			(at 120.65 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3528,7 +3615,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 71.12 0)
+			(at 120.65 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3540,7 +3627,7 @@
 			(uuid "514262d3-ee53-4869-9302-98184ed579dc")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#PWR014")
 					(unit 1)
@@ -3550,7 +3637,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 63.5 95.25 0)
+		(at 50.8 95.25 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3558,8 +3645,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "64eec209-c823-46b7-a1ce-f073336e00de")
-		(property "Reference" "C3"
-			(at 67.31 94.234 0)
+		(property "Reference" "C4"
+			(at 54.61 94.234 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3568,7 +3655,7 @@
 			)
 		)
 		(property "Value" "100u"
-			(at 67.31 96.52 0)
+			(at 54.61 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3577,7 +3664,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
-			(at 62.5348 99.06 0)
+			(at 49.8348 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3586,7 +3673,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 63.5 95.25 0)
+			(at 50.8 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3595,7 +3682,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 63.5 95.25 0)
+			(at 50.8 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3610,9 +3697,9 @@
 			(uuid "ef47f706-9e03-48a9-869b-b17a4124ba4e")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "C3")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -3620,7 +3707,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 50.8 101.6 0)
+		(at 38.1 101.6 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3630,7 +3717,7 @@
 		(fields_autoplaced yes)
 		(uuid "65ae233d-db16-4052-8f1d-1fb627d099b2")
 		(property "Reference" "#PWR01"
-			(at 50.8 107.95 0)
+			(at 38.1 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3639,7 +3726,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 106.68 0)
+			(at 38.1 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3647,7 +3734,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 101.6 0)
+			(at 38.1 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3656,7 +3743,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 101.6 0)
+			(at 38.1 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3665,7 +3752,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 101.6 0)
+			(at 38.1 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3677,7 +3764,7 @@
 			(uuid "5ed46173-b33d-4bb7-a773-a160a8762bb2")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#PWR01")
 					(unit 1)
@@ -3687,7 +3774,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 72.39 48.26 90)
+		(at 72.39 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3696,7 +3783,7 @@
 		(fields_autoplaced yes)
 		(uuid "6a68d943-64f0-47d8-a211-cfa9af44322d")
 		(property "Reference" "C1"
-			(at 72.39 40.64 90)
+			(at 72.39 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3704,7 +3791,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 72.39 43.18 90)
+			(at 72.39 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3712,7 +3799,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 76.2 47.2948 0)
+			(at 76.2 43.4848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3721,7 +3808,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 48.26 0)
+			(at 72.39 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3730,7 +3817,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 72.39 48.26 0)
+			(at 72.39 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3745,7 +3832,7 @@
 			(uuid "5c0287ce-3140-4185-bd9f-35481433c117")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "C1")
 					(unit 1)
@@ -3755,7 +3842,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 173.99 67.31 180)
+		(at 165.1 62.23 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3763,8 +3850,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c5f14d5-1d52-4518-b56d-20b450584769")
-		(property "Reference" "C6"
-			(at 177.8 66.0399 0)
+		(property "Reference" "C8"
+			(at 168.91 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3773,7 +3860,7 @@
 			)
 		)
 		(property "Value" "0u1"
-			(at 177.8 68.5799 0)
+			(at 168.91 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3782,7 +3869,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 173.0248 63.5 0)
+			(at 164.1348 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3791,7 +3878,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.99 67.31 0)
+			(at 165.1 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3800,7 +3887,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 173.99 67.31 0)
+			(at 165.1 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3815,9 +3902,9 @@
 			(uuid "a5d98428-d534-414a-a4c1-06b543c66c14")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "C6")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -3825,7 +3912,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
-		(at 115.57 35.56 0)
+		(at 115.57 31.75 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3834,7 +3921,7 @@
 		(fields_autoplaced yes)
 		(uuid "70cef66e-2ac7-41ab-9da0-7108c74fa79b")
 		(property "Reference" "U2"
-			(at 115.57 25.4 0)
+			(at 115.57 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3842,7 +3929,7 @@
 			)
 		)
 		(property "Value" "TL072"
-			(at 115.57 27.94 0)
+			(at 115.57 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3850,7 +3937,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
-			(at 115.57 35.56 0)
+			(at 115.57 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3859,7 +3946,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 115.57 35.56 0)
+			(at 115.57 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3868,7 +3955,7 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 115.57 35.56 0)
+			(at 115.57 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3901,7 +3988,7 @@
 			(uuid "ec5c45d6-eda6-4bdb-b743-fc355c7b46e7")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "U2")
 					(unit 2)
@@ -3911,7 +3998,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 173.99 63.5 0)
+		(at 165.1 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3919,7 +4006,7 @@
 		(dnp no)
 		(uuid "7735d49b-b3a0-4273-aedd-67c59d3765af")
 		(property "Reference" "#FLG05"
-			(at 173.99 61.595 0)
+			(at 165.1 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3928,7 +4015,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 173.99 58.42 0)
+			(at 165.1 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3936,7 +4023,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 63.5 0)
+			(at 165.1 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3945,7 +4032,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.99 63.5 0)
+			(at 165.1 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3954,7 +4041,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 173.99 63.5 0)
+			(at 165.1 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3966,7 +4053,7 @@
 			(uuid "6421914a-e2d0-4b8c-bff5-a0fff2fc58e3")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#FLG05")
 					(unit 1)
@@ -3976,7 +4063,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 135.89 67.31 180)
+		(at 120.65 62.23 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3984,8 +4071,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c746d54-50e8-42b3-bb32-57eca773ec76")
-		(property "Reference" "C5"
-			(at 139.7 66.0399 0)
+		(property "Reference" "C6"
+			(at 124.46 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3994,7 +4081,7 @@
 			)
 		)
 		(property "Value" "0u1"
-			(at 139.7 68.5799 0)
+			(at 124.46 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4003,7 +4090,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
-			(at 134.9248 63.5 0)
+			(at 119.6848 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4012,7 +4099,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 67.31 0)
+			(at 120.65 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4021,7 +4108,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 135.89 67.31 0)
+			(at 120.65 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4036,9 +4123,9 @@
 			(uuid "6ff37793-37fc-4389-b0ce-814109b1e211")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "C5")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -4046,32 +4133,34 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 135.89 35.56 90)
+		(at 63.5 58.42 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8939caea-53e8-45a4-926c-eff87feddd53")
+		(uuid "7f3c3ca3-6450-463c-9ed8-8faf664be31f")
 		(property "Reference" "C2"
-			(at 135.89 27.94 90)
+			(at 67.31 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "1u"
-			(at 135.89 30.48 90)
+		(property "Value" "22uF"
+			(at 67.31 59.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 139.7 34.5948 0)
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+			(at 62.5348 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4080,7 +4169,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 35.56 0)
+			(at 63.5 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4089,7 +4178,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 135.89 35.56 0)
+			(at 63.5 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4098,13 +4187,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "5110a422-8e32-4ce5-8410-a1b8f24802b4")
+			(uuid "cde630be-4801-4ee1-81c9-b9d0a7bc9e47")
 		)
 		(pin "1"
-			(uuid "58cb6f31-1f6c-4f43-9d38-3e77ee64006b")
+			(uuid "5bb09950-3bd8-4829-94eb-5b4c2c5e3355")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "C2")
 					(unit 1)
@@ -4113,8 +4202,75 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 132.08 66.04 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0f765e2-f231-4694-94ab-abcedda58be7")
+		(property "Reference" "#PWR06"
+			(at 132.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 132.08 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 132.08 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9fe48070-525c-4ce1-9649-65fb136f0ffc")
+		)
+		(instances
+			(project "jli2555-tin-can"
+				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:TL072")
-		(at 96.52 91.44 0)
+		(at 83.82 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4123,7 +4279,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2a1f00f-3d0a-4add-befe-7d7de513056b")
 		(property "Reference" "U2"
-			(at 96.52 81.28 0)
+			(at 83.82 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4131,7 +4287,7 @@
 			)
 		)
 		(property "Value" "TL072"
-			(at 96.52 83.82 0)
+			(at 83.82 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4295,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
-			(at 96.52 91.44 0)
+			(at 83.82 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4148,7 +4304,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 96.52 91.44 0)
+			(at 83.82 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4157,7 +4313,7 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 96.52 91.44 0)
+			(at 83.82 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4190,7 +4346,7 @@
 			(uuid "ec5c45d6-eda6-4bdb-b743-fc355c7b46e9")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "U2")
 					(unit 1)
@@ -4200,7 +4356,7 @@
 	)
 	(symbol
 		(lib_id "Anauseam:OPA134")
-		(at 129.54 76.2 0)
+		(at 116.84 71.12 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4208,7 +4364,7 @@
 		(dnp no)
 		(uuid "a41f2d12-6c62-4bac-b643-f427049eee9b")
 		(property "Reference" "U1"
-			(at 119.888 73.66 0)
+			(at 107.188 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4216,7 +4372,7 @@
 			)
 		)
 		(property "Value" "OPA134"
-			(at 119.888 76.2 0)
+			(at 107.188 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4224,7 +4380,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
-			(at 130.81 74.93 0)
+			(at 118.11 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4233,7 +4389,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa134.pdf"
-			(at 130.81 72.39 0)
+			(at 118.11 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4242,7 +4398,7 @@
 			)
 		)
 		(property "Description" "Single SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8"
-			(at 129.54 76.2 0)
+			(at 116.84 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4275,7 +4431,7 @@
 			(uuid "228cc319-0b20-452d-986b-43c17e0b7edb")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "U1")
 					(unit 2)
@@ -4285,7 +4441,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack3")
-		(at 172.72 38.1 180)
+		(at 172.72 34.29 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4293,7 +4449,7 @@
 		(dnp no)
 		(uuid "a48525c8-46d3-4e73-b9b0-6eada05b5d4d")
 		(property "Reference" "J2"
-			(at 174.625 46.99 0)
+			(at 174.625 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4301,7 +4457,7 @@
 			)
 		)
 		(property "Value" "AudioJack3"
-			(at 174.625 44.45 0)
+			(at 174.625 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4309,7 +4465,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3513N_Horizontal"
-			(at 172.72 38.1 0)
+			(at 172.72 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4318,7 +4474,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 172.72 38.1 0)
+			(at 172.72 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4327,7 +4483,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
-			(at 172.72 38.1 0)
+			(at 172.72 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4355,7 +4511,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 72.39 38.1 90)
+		(at 72.39 34.29 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4363,8 +4519,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a546061d-2cfb-4d70-8b21-88602d37d182")
-		(property "Reference" "R2"
-			(at 72.39 31.75 90)
+		(property "Reference" "R3"
+			(at 72.39 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4372,7 +4528,7 @@
 			)
 		)
 		(property "Value" "39k"
-			(at 72.39 34.29 90)
+			(at 72.39 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4380,7 +4536,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 72.644 37.084 90)
+			(at 72.644 33.274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4389,7 +4545,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 38.1 0)
+			(at 72.39 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4398,7 +4554,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 72.39 38.1 0)
+			(at 72.39 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4413,9 +4569,9 @@
 			(uuid "8d965d08-6d9f-4e89-8e5b-3c7c9f22ce7d")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -4423,7 +4579,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 50.8 30.48 0)
+		(at 38.1 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4432,7 +4588,7 @@
 		(fields_autoplaced yes)
 		(uuid "a59cbaa4-cc68-4a1a-9591-ab60613c8221")
 		(property "Reference" "R1"
-			(at 53.34 29.2099 0)
+			(at 40.64 25.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4441,7 +4597,7 @@
 			)
 		)
 		(property "Value" "1G"
-			(at 53.34 31.7499 0)
+			(at 40.64 27.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4450,7 +4606,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 51.816 30.734 90)
+			(at 39.116 26.924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4459,7 +4615,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 30.48 0)
+			(at 38.1 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4468,7 +4624,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 50.8 30.48 0)
+			(at 38.1 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4483,7 +4639,7 @@
 			(uuid "47a707da-2cee-4e48-a972-2f2b18c681e3")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "R1")
 					(unit 1)
@@ -4493,7 +4649,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 173.99 88.9 0)
+		(at 167.64 83.82 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4503,7 +4659,7 @@
 		(fields_autoplaced yes)
 		(uuid "abbc38a7-6e2f-49cc-801a-e488a424b72e")
 		(property "Reference" "#PWR04"
-			(at 173.99 95.25 0)
+			(at 167.64 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4512,7 +4668,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 173.99 93.98 0)
+			(at 167.64 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4520,7 +4676,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 88.9 0)
+			(at 167.64 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4529,7 +4685,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 88.9 0)
+			(at 167.64 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4538,7 +4694,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 173.99 88.9 0)
+			(at 167.64 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4550,7 +4706,7 @@
 			(uuid "03361f20-5d14-4c5e-8509-58777376f7ed")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#PWR04")
 					(unit 1)
@@ -4560,15 +4716,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 50.8 82.55 0)
+		(at 38.1 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ac76416a-c626-49ad-9e0e-8fa3d54588ca")
-		(property "Reference" "R5"
-			(at 53.34 82.5499 0)
+		(property "Reference" "R6"
+			(at 40.64 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4576,8 +4732,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 53.34 85.0899 0)
+		(property "Value" "100k"
+			(at 40.64 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4586,7 +4742,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 51.816 82.804 90)
+			(at 39.116 82.804 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4595,7 +4751,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 82.55 0)
+			(at 38.1 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4604,7 +4760,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 50.8 82.55 0)
+			(at 38.1 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4619,42 +4775,44 @@
 			(uuid "53aa0014-67ba-4000-b88f-9a912c2a33a6")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "R5")
+					(reference "R6")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 38.1 110.49 0)
+		(lib_id "Device:C_Polarized")
+		(at 135.89 31.75 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b9e83f1c-0ec5-46a4-a281-e92ffa1dd102")
-		(property "Reference" "#FLG01"
-			(at 38.1 108.585 0)
+		(uuid "b8acdc9c-e636-4438-808c-49793bc0ad8c")
+		(property "Reference" "C3"
+			(at 134.366 27.178 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify right)
 			)
 		)
-		(property "Value" "PWR_FLAG"
-			(at 38.1 105.41 0)
+		(property "Value" "10u"
+			(at 134.366 24.892 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 38.1 110.49 0)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+			(at 139.7 32.7152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4663,7 +4821,75 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 38.1 110.49 0)
+			(at 135.89 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 135.89 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cd71c3e7-ecdc-487e-942e-d673aa1e1b66")
+		)
+		(pin "1"
+			(uuid "3bcb9186-a8e5-46f3-958f-da5cb059d218")
+		)
+		(instances
+			(project "jli2555-tin-can"
+				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 25.4 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b9e83f1c-0ec5-46a4-a281-e92ffa1dd102")
+		(property "Reference" "#FLG01"
+			(at 25.4 108.585 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 25.4 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4672,7 +4898,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 38.1 110.49 0)
+			(at 25.4 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4684,7 +4910,7 @@
 			(uuid "6a81e044-aabe-42b8-b8cf-484c4a952101")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#FLG01")
 					(unit 1)
@@ -4694,7 +4920,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:TL072")
-		(at 167.64 76.2 0)
+		(at 161.29 71.12 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4702,7 +4928,7 @@
 		(dnp no)
 		(uuid "ba05e543-f561-48ab-9ebd-9a542935bb2d")
 		(property "Reference" "U2"
-			(at 157.48 74.676 0)
+			(at 151.13 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4711,7 +4937,7 @@
 			)
 		)
 		(property "Value" "TL072"
-			(at 156.718 77.216 0)
+			(at 150.368 72.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4720,7 +4946,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
-			(at 167.64 76.2 0)
+			(at 161.29 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4729,7 +4955,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 167.64 76.2 0)
+			(at 161.29 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4738,7 +4964,7 @@
 			)
 		)
 		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 167.64 76.2 0)
+			(at 161.29 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4781,7 +5007,7 @@
 	)
 	(symbol
 		(lib_id "Anauseam:OPA134")
-		(at 71.12 27.94 0)
+		(at 71.12 24.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4790,7 +5016,7 @@
 		(fields_autoplaced yes)
 		(uuid "bbfd5ef0-7069-4643-b8da-52a421432342")
 		(property "Reference" "U1"
-			(at 71.12 17.78 0)
+			(at 71.12 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4798,7 +5024,7 @@
 			)
 		)
 		(property "Value" "OPA134"
-			(at 71.12 20.32 0)
+			(at 71.12 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4806,7 +5032,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
-			(at 72.39 26.67 0)
+			(at 72.39 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4815,7 +5041,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/opa134.pdf"
-			(at 72.39 24.13 0)
+			(at 72.39 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4824,7 +5050,7 @@
 			)
 		)
 		(property "Description" "Single SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8"
-			(at 71.12 27.94 0)
+			(at 71.12 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4867,15 +5093,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 50.8 93.98 0)
+		(at 38.1 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c3cd11e0-3af3-48e3-a1a6-3084d437c09e")
-		(property "Reference" "R6"
-			(at 53.34 92.7099 0)
+		(property "Reference" "R7"
+			(at 40.64 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4883,8 +5109,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 53.34 95.2499 0)
+		(property "Value" "100k"
+			(at 40.64 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4893,7 +5119,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 51.816 94.234 90)
+			(at 39.116 94.234 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4902,7 +5128,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 93.98 0)
+			(at 38.1 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4911,7 +5137,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 50.8 93.98 0)
+			(at 38.1 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4926,9 +5152,9 @@
 			(uuid "81ae722f-d2b7-4190-bf03-e4fb44cdb379")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -4936,7 +5162,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 135.89 63.5 0)
+		(at 120.65 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4944,7 +5170,7 @@
 		(dnp no)
 		(uuid "cb7272d2-c39f-4497-9d07-159894ac2b97")
 		(property "Reference" "#FLG03"
-			(at 135.89 61.595 0)
+			(at 120.65 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4953,7 +5179,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 135.89 58.42 0)
+			(at 120.65 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4961,7 +5187,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 63.5 0)
+			(at 120.65 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4970,7 +5196,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 63.5 0)
+			(at 120.65 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4979,7 +5205,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 135.89 63.5 0)
+			(at 120.65 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4991,7 +5217,7 @@
 			(uuid "64fe90e8-47ce-442d-a017-74c8db7ec619")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#FLG03")
 					(unit 1)
@@ -5000,34 +5226,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 76.2 95.25 180)
+		(lib_id "Device:R_US")
+		(at 50.8 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "d835ebb5-4b75-4567-a613-2628e1462b84")
-		(property "Reference" "C4"
-			(at 80.01 93.9799 0)
+		(fields_autoplaced yes)
+		(uuid "d1f1d5e9-d416-433d-8eda-c1adfb0f9a0a")
+		(property "Reference" "R2"
+			(at 50.8 15.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "0u1"
-			(at 80.01 96.5199 0)
+		(property "Value" "1k"
+			(at 50.8 17.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
-			(at 75.2348 91.44 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 51.054 20.574 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5036,7 +5261,76 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 95.25 0)
+			(at 50.8 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 50.8 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d2c6c7da-e244-4ded-a697-ae9de0e5dab1")
+		)
+		(pin "1"
+			(uuid "0a54c69d-b7cf-4b4c-afc2-5f820e752c42")
+		)
+		(instances
+			(project "jli2555-tin-can"
+				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 63.5 95.25 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d835ebb5-4b75-4567-a613-2628e1462b84")
+		(property "Reference" "C5"
+			(at 67.31 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0u1"
+			(at 67.31 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
+			(at 62.5348 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5045,7 +5339,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 76.2 95.25 0)
+			(at 63.5 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5060,9 +5354,9 @@
 			(uuid "0d01add2-00d6-4955-ad8a-8a0857f71972")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "C4")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -5070,7 +5364,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 173.99 71.12 0)
+		(at 165.1 66.04 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5080,7 +5374,7 @@
 		(fields_autoplaced yes)
 		(uuid "d9476bf0-37e9-4308-a064-e794b5ecb126")
 		(property "Reference" "#PWR03"
-			(at 173.99 77.47 0)
+			(at 165.1 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5089,7 +5383,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 173.99 76.2 0)
+			(at 165.1 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5097,7 +5391,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 71.12 0)
+			(at 165.1 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5106,7 +5400,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 71.12 0)
+			(at 165.1 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5115,7 +5409,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 173.99 71.12 0)
+			(at 165.1 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5127,7 +5421,7 @@
 			(uuid "99a36de8-067c-4ff2-b7db-1848662ac1d1")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "#PWR03")
 					(unit 1)
@@ -5137,7 +5431,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_US")
-		(at 95.25 33.02 0)
+		(at 95.25 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5145,7 +5439,7 @@
 		(dnp no)
 		(uuid "e3d246fb-bcb4-40ec-b6f1-abc80b107462")
 		(property "Reference" "POT1"
-			(at 93.726 23.622 0)
+			(at 93.726 19.812 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5154,7 +5448,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 93.218 25.908 0)
+			(at 93.218 22.098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5163,7 +5457,7 @@
 			)
 		)
 		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09Y11_Single_Horizontal"
-			(at 95.25 33.02 0)
+			(at 95.25 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5172,7 +5466,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 33.02 0)
+			(at 95.25 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5181,7 +5475,7 @@
 			)
 		)
 		(property "Description" "Potentiometer, US symbol"
-			(at 95.25 33.02 0)
+			(at 95.25 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5199,7 +5493,7 @@
 			(uuid "3576af6e-ffa8-4376-b734-b9125042b781")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
 					(reference "POT1")
 					(unit 1)
@@ -5208,16 +5502,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 176.53 66.04 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e4095fd0-06e9-47ab-9fb3-f81201b6b1e7")
+		(property "Reference" "#PWR07"
+			(at 176.53 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 176.53 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 176.53 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6f2c169c-03a2-41a6-af12-f6fc0ae85760")
+		)
+		(instances
+			(project "jli2555-tin-can"
+				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
-		(at 144.78 63.5 90)
+		(at 142.24 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "e437750a-d3bf-44ea-9d1c-f68e1de294c1")
-		(property "Reference" "R7"
-			(at 142.875 57.7849 90)
+		(property "Reference" "R8"
+			(at 140.335 52.7049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5226,7 +5587,7 @@
 			)
 		)
 		(property "Value" "47"
-			(at 142.875 60.3249 90)
+			(at 140.335 55.2449 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5235,7 +5596,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 145.034 62.484 90)
+			(at 142.494 57.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5244,7 +5605,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 63.5 0)
+			(at 142.24 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5253,7 +5614,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 144.78 63.5 0)
+			(at 142.24 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5268,44 +5629,44 @@
 			(uuid "ff96cb9c-370f-4219-8900-0e46e418e9c9")
 		)
 		(instances
-			(project "jli2555_preamp"
+			(project "jli2555-tin-can"
 				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
-					(reference "R7")
+					(reference "R8")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:Battery_Cell")
-		(at 38.1 87.63 0)
-		(mirror y)
+		(lib_id "Device:C")
+		(at 176.53 62.23 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "f779675f-5dec-4336-b37a-b89b8e86c36c")
-		(property "Reference" "BT1"
-			(at 34.29 84.5184 0)
+		(fields_autoplaced yes)
+		(uuid "ec9e551e-de7d-4052-bcec-db4c9bf70954")
+		(property "Reference" "C9"
+			(at 180.34 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "9 V"
-			(at 34.29 87.0584 0)
+		(property "Value" "47uF"
+			(at 180.34 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Battery:BatteryHolder_MPD_BA9VPC_1xPP3"
-			(at 38.1 86.106 90)
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
+			(at 175.5648 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5314,7 +5675,77 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 38.1 86.106 90)
+			(at 176.53 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 176.53 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "69bf8019-4b2d-48dd-b2b8-01d4424883ed")
+		)
+		(pin "1"
+			(uuid "16ee3f5d-d922-4189-992a-3747d0d3030b")
+		)
+		(instances
+			(project "jli2555-tin-can"
+				(path "/ca63f3fa-00f9-4b7d-b6c3-95b979ea7664"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Battery_Cell")
+		(at 25.4 87.63 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f779675f-5dec-4336-b37a-b89b8e86c36c")
+		(property "Reference" "BT1"
+			(at 21.59 84.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "9 V"
+			(at 21.59 87.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Battery:BatteryHolder_MPD_BA9VPC_1xPP3"
+			(at 25.4 86.106 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 86.106 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5323,7 +5754,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 38.1 87.63 0)
+			(at 25.4 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)

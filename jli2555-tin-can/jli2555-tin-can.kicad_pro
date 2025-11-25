@@ -466,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "jli2555_preamp.kicad_pro",
+    "filename": "jli2555-tin-can.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -635,7 +635,7 @@
         "version": 0
       },
       "model_mode": 4,
-      "workbook_filename": "jli2555_preamp.wbk"
+      "workbook_filename": "jli2555-tin-can.wbk"
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
