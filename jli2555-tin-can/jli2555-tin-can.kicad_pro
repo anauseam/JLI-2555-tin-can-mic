@@ -507,7 +507,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../jli2555-tin-can-gbr/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
