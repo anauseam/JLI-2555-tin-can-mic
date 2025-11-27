@@ -1,5 +1,7 @@
 # JLI-2555-tin-can-mic
 
+![tin can circuit](images/circuit.png)
+
 A unprofessional "Mid"-Fi mic using a JLI 2555, meant to be housed in a tin can.
 
 ## Specs
